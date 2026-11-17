@@ -9,8 +9,12 @@ Animal(string n){
     name = n;
 }
 
+void display(){
+    cout<<"Name of Animal"<< name << endl;
+}
+
 };
 int main(){
     Animal a("dog");
-
+    a.display();
 }
