@@ -10,3 +10,6 @@ Animal(string n){
 }
 
 };
+int main(){
+    
+}
