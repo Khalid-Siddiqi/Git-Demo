@@ -35,3 +35,7 @@ git push // add changes to your github
 
 git log
 git log --oneline
+
+## branching in git
+
+git branch -c
