@@ -11,5 +11,6 @@ Animal(string n){
 
 };
 int main(){
-    
+    Animal a("dog");
+
 }
